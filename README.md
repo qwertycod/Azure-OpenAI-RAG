@@ -1,5 +1,5 @@
 **Azure-OpenAI-RAG**
-An ASP.NET Core 6 Web API application that demonstrates Retrieval-Augmented Generation (RAG) using Azure Cognitive Search and Azure OpenAI.
+An ASP.NET Core 9 Web API application that demonstrates Retrieval-Augmented Generation (RAG) using Azure Cognitive Search and Azure OpenAI.
 The app retrieves context chunks from Azure Cognitive Search and uses them to ground GPT responses from Azure OpenAI.
 
 To read, source - https://www.youtube.com/watch?v=NjbUzAwtizQ - <img width="72" height="52" alt="image" src="https://github.com/user-attachments/assets/81cd65f1-3872-4e1e-b57b-39a42491006a" />
